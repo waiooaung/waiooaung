@@ -59,7 +59,5 @@ I'm passionate about writing clean code, optimizing performance, and collaborati
 
 ---
 
-## 📊 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=waiooaung&color=blue)
-![](https://github-readme-stats.vercel.app/api?username=waiooaung&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=waiooaung&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waiooaung&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=waiooaung&theme=dark)](https://git.io/streak-stats)
