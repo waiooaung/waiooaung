@@ -35,6 +35,7 @@ I'm passionate about writing clean code, optimizing performance, and collaborati
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Vue.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
 **Databases**
 
