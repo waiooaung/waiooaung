@@ -61,4 +61,5 @@ I'm passionate about writing clean code, optimizing performance, and collaborati
 ---
 
 ## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=waiooaung&show_icons=true&theme=dark" alt="waiooaung" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=waiooaung&theme=dark)](https://git.io/streak-stats)
