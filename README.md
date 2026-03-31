@@ -1,64 +1,67 @@
-# 💫 About Me
+# 🚀 Wai Oo Aung | Senior Full Stack Engineer
+### *Architecting High-Performance Web, Mobile & Cloud Solutions*
 
-Hi, I'm **Wai Oo Aung** — a passionate Backend Engineer based in the UAE 🇦🇪
-
-💻 With **over 6 years of experience**, I specialize in building and deploying scalable, secure backend systems. My primary stack includes **Node.js**, **NestJS**, **TypeScript**, and **PHP**, and I’m experienced in managing infrastructure using **Docker**, **AWS**, and **DigitalOcean**. I also implement efficient CI/CD pipelines using **GitHub Actions** to streamline development workflows.
-
-I've architected backend services for **fintech** and **currency trading** platforms, including key features like:
-- Authentication & Authorization (RBAC)
-- Multi-tenancy architecture
-- Automated profit calculations
-- Scalable and maintainable REST APIs
-
-I'm passionate about writing clean code, optimizing performance, and collaborating on impactful, technically challenging projects.
+<p align="left">
+  <a href="https://www.linkedin.com/in/wai-oo-aung-31b409185"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Dubai_🇦🇪-orange?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Contact-Email_Me-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 Professional Summary
+I am a **Senior Full Stack Engineer** with **6+ years of experience** specializing in the modern JavaScript/TypeScript ecosystem. My expertise lies in building seamless user experiences with **Next.js** and **React Native**, backed by robust, scalable microservices powered by **NestJS**.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsisnotasava)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wai-oo-aung-31b409185)
+Based in Dubai, I architect end-to-end solutions for **Fintech**, **Currency Trading**, and **Enterprise Inventory Systems**, ensuring every layer—from the UI to the database—is optimized for performance and security.
 
----
-
-## 💻 Tech Stack
-
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
-
-**Frontend & UI**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Vue.js-%23000000.svg?style=flat&logo=vue.js&logoColor=green)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalocean&logoColor=white)
+* 🎯 **Current Focus:** Advanced Next.js Server Components & NestJS Microservices.
+* 💡 **Core Philosophy:** "Bridge the gap between beautiful interfaces and powerful backends."
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=waiooaung&theme=dark)](https://git.io/streak-stats)
+## 🛠️ Specialized Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Web** | `Next.js (App Router)` • `React` • `Tailwind CSS` • `TypeScript` |
+| **Mobile Development** | `React Native` • `Expo` • `Mobile UI/UX` |
+| **Backend Architecture** | `NestJS` • `Node.js` • `PHP (Laravel)` • `Python` |
+| **Infrastructure & Cloud** | `Docker` • `AWS (EC2/S3/RDS)` • `DigitalOcean` • `Terraform` |
+| **Data & Auth** | `PostgreSQL` • `MongoDB` • `Redis` • `Clerk` • `RBAC` |
+| **CI/CD** | `GitHub Actions` • `Vercel` • `Kubernetes` • `REST/GraphQL` |
+
+---
+
+## 🏗️ Featured Engineering Impact
+
+* **Next.js & React Native Ecosystems:** Developed unified web and mobile experiences (Stablewire), leveraging shared logic and high-performance rendering.
+* **Fintech Trading Engines:** Built full-stack currency exchange platforms (AED/MMK/THB) featuring real-time profit calculations and secure ledger systems.
+* **Enterprise Inventory Systems:** Architected a universal management system designed for high-concurrency stock tracking and complex reporting.
+* **DevOps Excellence:** Automated entire deployment workflows using GitHub Actions and Docker, ensuring zero-downtime releases.
+
+---
+
+## 📊 Engineering Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waiooaung&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Oo Aung's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiooaung&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=waiooaung&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+I’m always open to discussing **Next.js optimization**, **NestJS architecture**, or **Fintech innovations**. 
+
+* 💬 Ask me about: **T3 Stack, Cross-platform mobile, and AWS scaling.**
+* ⚡ Fun Fact: When I'm not in VS Code, I'm likely practicing street photography or grinding in Dota 2.
+
+---
+
+### 📥 Find me on:
+<a href="https://www.facebook.com/nsisnotasava"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wai-oo-aung-31b409185"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
