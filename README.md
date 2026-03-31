@@ -44,8 +44,8 @@ Based in Dubai, I architect end-to-end solutions for **Fintech**, **Currency Tra
 ## 📊 Engineering Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waiooaung&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Oo Aung's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiooaung&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=waiooaung&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Oo Aung's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=waiooaung&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
