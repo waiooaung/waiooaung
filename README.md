@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/wai-oo-aung-31b409185"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Dubai_🇦🇪-orange?style=for-the-badge&logo=googlemaps" alt="Location" />
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Contact-Email_Me-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:waiooaung.sea@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
