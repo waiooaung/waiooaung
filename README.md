@@ -1,47 +1,72 @@
-# 🚀 Wai Oo Aung | Senior Full Stack Engineer
-### *Architecting High-Performance Web, Mobile & Cloud Solutions*
+# 🚀 Wai Oo Aung | Full Stack Developer (Backend-Focused)
+### *Building scalable web, mobile & cloud solutions with Node.js, NestJS, Next.js and Laravel*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wai-oo-aung-31b409185"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Dubai_🇦🇪-orange?style=for-the-badge&logo=googlemaps" alt="Location" />
-  <a href="mailto:waiooaung.sea@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:waiooaung.sea@gmail.com"><img src="https://img.shields.io/badge/Email-waiooaung.sea@gmail.com-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://waiooaung.github.io"><img src="https://img.shields.io/badge/Portfolio-waiooaung.github.io-black?style=for-the-badge&logo=github" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-I am a **Senior Full Stack Engineer** with **6+ years of experience** specializing in the modern JavaScript/TypeScript ecosystem. My expertise lies in building seamless user experiences with **Next.js** and **React Native**, backed by robust, scalable microservices powered by **NestJS**.
+## 👨‍💻 About Me
+I'm a **Full Stack Developer** with **6+ years of experience** building and scaling web platforms, cross-platform mobile apps and cloud solutions — with particular strength on the **backend**.
 
-Based in Dubai, I architect end-to-end solutions for **Fintech**, **Currency Trading**, and **Enterprise Inventory Systems**, ensuring every layer—from the UI to the database—is optimized for performance and security.
+I work mainly with **Node.js (NestJS / Express)**, **TypeScript** and **PHP (Laravel)** on the server, and **Next.js**, **React** and **React Native** on the client. I've delivered **fintech / currency exchange platforms**, an **AI-powered omnichannel CRM**, **e-commerce platforms** and **POS & inventory systems** end to end — from database design to deployment.
 
-* 🎯 **Current Focus:** Advanced Next.js Server Components & NestJS Microservices.
-* 💡 **Core Philosophy:** "Bridge the gap between beautiful interfaces and powerful backends."
+Previously a **Team Lead (Backend)**, promoted within a year of joining, leading developers to deliver e-commerce and POS systems on time.
+
+* 📍 **Based in:** Dubai, UAE — currently Full Stack Developer at **Go Smart AI Solution**
+* 🎓 **Learning:** B.Sc. in Computer Science (in progress) at University of the People
+* 💡 **Philosophy:** Clean Code, clean architecture, and software that scales.
 
 ---
 
-## 🛠️ Specialized Ecosystem
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Web** | `Next.js (App Router)` • `React` • `Tailwind CSS` • `TypeScript` |
-| **Mobile Development** | `React Native` • `Expo` • `Mobile UI/UX` |
-| **Backend Architecture** | `NestJS` • `Node.js` • `PHP (Laravel)` • `Python` |
-| **Infrastructure & Cloud** | `Docker` • `AWS (EC2/S3/RDS)` • `DigitalOcean` • `Terraform` |
-| **Data & Auth** | `PostgreSQL` • `MongoDB` • `Redis` • `Clerk` • `RBAC` |
-| **CI/CD** | `GitHub Actions` • `Vercel` • `Kubernetes` • `REST/GraphQL` |
+| **Backend** | `Node.js` • `NestJS` • `Express.js` • `TypeScript` • `PHP (Laravel, Core PHP)` • `Python` |
+| **Frontend** | `Next.js` • `React` • `Vue.js` • `Tailwind CSS` • `JavaScript (ES6+)` • `jQuery` • `HTML5/CSS3` |
+| **Mobile** | `React Native` • `Expo` • `iOS & Android Deployment` |
+| **Databases** | `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` — schema design, indexing, query optimisation |
+| **Cloud & DevOps** | `AWS (EC2, S3, RDS)` • `DigitalOcean` • `Vercel` • `Docker` • `Kubernetes` • `Terraform` • `Nginx` • `PM2` • `Linux` • `GitHub Actions CI/CD` |
+| **Auth & Security** | `Clerk` • `Secure Authentication` • `RBAC` |
+| **Architecture** | `REST & GraphQL APIs` • `Microservices` • `SaaS / Multi-Tenant` • `MVC` |
+| **Integrations** | `Payment Gateways` • `POS` • `OpenAI / LLM APIs` • `WhatsApp / Messenger / Instagram APIs` • `Push Notifications` |
 
 ---
 
-## 🏗️ Featured Engineering Impact
+## 🏗️ Featured Projects
 
-* **Next.js & React Native Ecosystems:** Developed unified web and mobile experiences (Stablewire), leveraging shared logic and high-performance rendering.
-* **Fintech Trading Engines:** Built full-stack currency exchange platforms (AED/MMK/THB) featuring real-time profit calculations and secure ledger systems.
-* **Enterprise Inventory Systems:** Architected a universal management system designed for high-concurrency stock tracking and complex reporting.
-* **DevOps Excellence:** Automated entire deployment workflows using GitHub Actions and Docker, ensuring zero-downtime releases.
+* **💱 Stablewire — P2P Currency Exchange Platform**
+  Designed the full-stack architecture, database models and backend endpoints for a fiat & crypto exchange platform using **NestJS, PostgreSQL, Next.js and React Native**, with secure authentication and real-time transaction tracking.
+
+* **🤖 GoSmartAI — AI-Powered Customer Communication & CRM**
+  Architected an omnichannel CRM integrating **WhatsApp Business, Facebook Messenger and Instagram DM** with **OpenAI** for automated support, lead qualification, real-time message sync, smart agent escalation and analytics (**NestJS, Next.js, PostgreSQL**).
+
+* **🛒 E-commerce Platform (Laravel)**
+  Full-stack e-commerce with product catalogue, advanced filtering, custom checkout workflows, payment gateway integration, customer accounts and business reporting (**Laravel, MySQL**).
+
+* **🧾 Enterprise POS & Inventory Management System**
+  End-to-end POS with real-time inventory updates, automated sales summaries, multi-tier access control and cashier/terminal workflows, integrated with the e-commerce platform via REST APIs.
 
 ---
 
-## 📊 Engineering Insights
+## 💼 Experience
+
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| Full Stack Developer | Go Smart AI Solution (Dubai) | Feb 2025 – Present |
+| Team Lead (Backend) | APP.COM.MM Company Limited | May 2023 – Jun 2024 |
+| Senior Web Developer | ALJ Myanmar Company Limited | Sep 2022 – May 2023 |
+| Web Developer | Royal Express Company Limited | Mar 2020 – Sep 2022 |
+| Freelance Web Developer | Self-employed | Jan 2019 – Mar 2020 |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=waiooaung&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Oo Aung's GitHub Stats" height="180px" />
@@ -54,14 +79,11 @@ Based in Dubai, I architect end-to-end solutions for **Fintech**, **Currency Tra
 
 ---
 
-## 🤝 Let's Collaborate
-I’m always open to discussing **Next.js optimization**, **NestJS architecture**, or **Fintech innovations**. 
+## 🤝 Let's Connect
+I'm open to **Full Stack / Backend** opportunities and always happy to talk about **NestJS architecture**, **Next.js**, **Laravel**, **fintech** or **AI integrations**.
 
-* 💬 Ask me about: **T3 Stack, Cross-platform mobile, and AWS scaling.**
-* ⚡ Fun Fact: When I'm not in VS Code, I'm likely practicing street photography or grinding in Dota 2.
+* ⚡ **Fun fact:** When I'm not coding, I'm likely practicing street photography or grinding in Dota 2.
 
----
-
-### 📥 Find me on:
-<a href="https://www.facebook.com/nsisnotasava"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/wai-oo-aung-31b409185"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:waiooaung.sea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/nsisnotasava"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
